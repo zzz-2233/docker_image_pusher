@@ -1,4 +1,4 @@
-openjdk:17-jre-slim
+openjdk:24-slim
 nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
